@@ -55,3 +55,10 @@ https://f-inde.com/comparison-theoretical-stock-price/
 ### シグナリング（アナウンスメント効果）
 ### エージェンシー・コスト
 ### 株式の需給
+
+
+## WACC 加重平均資本コスト
+## 正味運転資本
+## FCF
+## 営業利益
+## EVA Economic Value Added
