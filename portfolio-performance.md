@@ -1,8 +1,10 @@
-# Understanding Portfolio Characteristics
+# Portfolio Characteristics
 There are a few other things we can calculate that help us understand our portfolio’s performance. For each time period:
 
 ## GMV
-GMV (gross market value) is the sum of the absolute value of your holdings, long and short. This is a good gauge of the overall size of your portfolio. 
+GMV (gross market value) is the sum of the absolute value of your holdings, long and short.
+
+This is a good gauge of the overall size of your portfolio. 
 
 GMV = \sum_i |h_i|∑ 
 i
