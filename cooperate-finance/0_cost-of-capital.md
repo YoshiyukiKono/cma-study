@@ -24,7 +24,7 @@ r_E = r_F + β_E(r_M - r_F)
 * r_M: 市場ポートフォリオの期待収益率
 * β_E: 当該企業のベータ値
 
-## 加重平均資本コスト（CAPM成立時）
+## 加重平均資本コスト Weighted Average Cost of Capital（CAPM成立時）
 
 r_WACC = E/(E+D) * r_E + D/(E+D) * (1 - T) * r_D
 
