@@ -40,12 +40,17 @@
 LGD = 1 - PR
 ```
 * LGD: デフォルト時損失率（推計値）Loss Given Default
-* PR: 回収率 Percentage of Recovery (?)
+* PR: 回収率 Probability of Recovery
 ```
 α = 1 - PD * LGD
 ```
 * α: 確実性等価係数
-* PD: デフォルト率（推計値）Percentage of Default
+* PD: デフォルト率（推計値）Probability of Default
 https://www.riskdatabank.co.jp/rdb/riskpedia/114/
 
+#### 参考
+* 回収実績データに基づく LGD の要因分析と多段階モデルによる LGD および EL 推計
+  * https://www.fsa.go.jp/frtc/nenpou/07/02.pdf
+  * かなり高度だが、NNやサポート・ベクター・マシンにも触れている
 
+### EL Expected Loss 期待損失
