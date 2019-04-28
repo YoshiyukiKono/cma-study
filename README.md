@@ -1,1 +1,1 @@
-# Chartered Member of saAJ
+# Certiﬁed Member Analyst of the Securities Analysts Association of Japan
