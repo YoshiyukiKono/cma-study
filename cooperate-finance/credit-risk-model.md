@@ -35,12 +35,17 @@
 債権の価格 = 額面 / 1 + 利回り
 
 
-### デフォルト時損失率
-
+### デフォルト時損失率 LGD (Loss Given Default)
+```
 LGD = 1 - PR
-* PR: 回収率
-
+```
+* LGD: デフォルト時損失率（推計値）Loss Given Default
+* PR: 回収率 Percentage of Recovery (?)
+```
 α = 1 - PD * LGD
+```
 * α: 確実性等価係数
+* PD: デフォルト率（推計値）Percentage of Default
+https://www.riskdatabank.co.jp/rdb/riskpedia/114/
 
 
