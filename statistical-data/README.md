@@ -1,4 +1,4 @@
-# 統計
+# 計量分析と統計 Econometric Analysis and Statistics
 
 ## 構成要素からポートフォリオの標準偏差の計算
 ```
